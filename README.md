@@ -2,6 +2,9 @@
 
 This Python script allows you to check whether your Aadhaar number and PAN Number are linked or not.
 
+![alt text](https://github.com/iamskidrow/aadhar_pan_link_status/blob/main/screenshots/arg_all.png?raw=true)
+
+
 
 ### Usage
 
